@@ -1,0 +1,20 @@
+# Executáveis
+horror-cli
+horror-cli.exe
+*.exe
+*.out
+*.o
+a.out
+
+# Temporários
+*.swp
+*.tmp
+.DS_Store
+*~
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+Thumbs.db
